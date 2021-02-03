@@ -1,2 +1,2 @@
-# IDS_projekt
+# IDS
 - návrh a implementace relační databáze
